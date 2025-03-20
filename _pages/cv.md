@@ -9,56 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research Scientist @  <a href="https://research.nvidia.com/labs/twn/">NVIDIA Research Taiwan</a></span> <span style="flex:  0 0 auto"><i>Mar. 2025 - Present</i></span></p>
+* <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">AI Researcher Intern @  <a href="https://research.nvidia.com/labs/twn/">NVIDIA Research Taiwan</a></span> <span style="flex:  0 0 auto"><i>Oct. 2023 - Aug. 2024</i></span></p>
+* <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">NLP Researcher Intern @  <a href="https://www.apple.com/">Apple</a> </span> <span style="flex:  0 0 auto"><i>Jun. 2019 - Sep. 2019</i></span></p>
+  * Input and Intelligence Team
+* <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">ML Researcher Intern @  <a href="https://www.htc.com/tw/">HTC</a> </span> <span style="flex:  0 0 auto"><i>Jul. 2017 - Dec. 2017</i></span></p>
+  * Department of Deep Learning and Algorithm
+* <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Teaching Assistant of <a href="">Machine Learning, Linear Algebra, Digital Speech Processing</a> </span> <span style="flex:  0 0 auto"></span></p>
+* <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Reviewer of <a href="">ICASSP, ACL, ICML, AAAI, COCOSDA, ISCSLP, SLT, Interspeech</a> </span> <span style="flex:  0 0 auto"></span></p>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Selected Publications
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+For the complete list, please visit <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+  {% endfor %}</ul> -->
+
+Education
 ======
-* Currently signed in to 43 different slack teams
+* <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Ph.D in <a href="https://gice.ntu.edu.tw/en/">NTU GICE</a></span> <span style="flex:  0 0 auto"><i>Sep. 2017 - Aug. 2024</i></span></p>
+  * [NTU Speech Processing and Machine Learning (NTU SPML) Lab](https://speech.ee.ntu.edu.tw/)
+  * Advisors: [Prof. Lin-shan Lee](https://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and [Prof. Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php)
+* <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">B.S. in <a href="https://web.ee.ntu.edu.tw/eng/index.php">NTU EE</a></span> <span style="flex:  0 0 auto"><i>Sep. 2013 - Jun. 2017</i></span></p>
+  
+Honors
+======
+* <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">NTU GICE Excellent Elite Cultivation Program Scholarship</span> <span style="flex:  0 0 auto"><i>NTU GICE 2019 - 2023</i></span></p>
+* <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">NTU Direct-Entry Ph.D. Program Scholarship</span> <span style="flex:  0 0 auto"><i>NTU 2019 - 2022</i></span></p>
+* <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">13th Asian Physics Olympiad (APhO) - Bronze Prize & Best Researcher Award</span> <span style="flex:  0 0 auto"><i>APhO 2013</i></span></p>
+  
+<!-- Service and leadership
+======
+* Currently signed in to 43 different slack teams -->
