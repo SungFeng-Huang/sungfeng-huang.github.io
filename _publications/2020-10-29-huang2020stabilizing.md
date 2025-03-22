@@ -2,7 +2,7 @@
 title: "Stabilizing Label Assignment for Speech Separation by Self-supervised Pre-training "
 collection: publications
 permalink: /publication/2020-10-29-huang2020stabilizing
-authors: '<u>Sung-Feng Huang</u>, Shun-Po Chuang, Da-Rong Liu, Yi-Chen Chen, Gene-Ping Yang, Hung-yi Lee'
+authors: '<b>Sung-Feng Huang</b>, Shun-Po Chuang, Da-Rong Liu, Yi-Chen Chen, Gene-Ping Yang, Hung-yi Lee'
 excerpt: 'SSL for speech separation. '
 date: 2020-10-29
 venue: 'Interspeech'

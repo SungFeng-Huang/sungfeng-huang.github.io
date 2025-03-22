@@ -2,7 +2,7 @@
 title: "Maximizing Data Efficiency for Cross-Lingual TTS Adaptation by Self-Supervised Representation Mixing and Embedding Initialization"
 collection: publications
 permalink: /publication/2023-12-16-huang2023maximizing
-authors: 'Wei-Ping Huang, <u>Sung-Feng Huang</u>, Hung-yi Lee'
+authors: 'Wei-Ping Huang, <b>Sung-Feng Huang</b>, Hung-yi Lee'
 excerpt: 'Utilize unlabeled speech data for few-shot cross-lingual TTS adaptation'
 date: 2023-12-16
 venue: 'IEEE ASRU'

@@ -2,7 +2,7 @@
 title: "Detecting the Undetectable: Assessing the Efficacy of Current Spoof Detection Methods Against Seamless Speech Edits"
 collection: publications
 permalink: /publication/2024-12-02-huang2024detecting
-authors: '<u>Sung-Feng Huang</u>, Heng-Cheng Kuo, Zhehuai Chen, Xuesong Yang, Chao-Han Huck Yang, Yu Tsao, Yu-Chiang Frank Wang, Hung-yi Lee, Szu-Wei Fu
+authors: '<b>Sung-Feng Huang</b>, Heng-Cheng Kuo, Zhehuai Chen, Xuesong Yang, Chao-Han Huck Yang, Yu Tsao, Yu-Chiang Frank Wang, Hung-yi Lee, Szu-Wei Fu
 '
 excerpt: 'Speech editing dataset &amp; edit deepfake detection'
 date: 2024-12-02

@@ -2,7 +2,7 @@
 title: "Personalized Lightweight Text-to-Speech: Voice Cloning with Adaptive Structured Pruning"
 collection: publications
 permalink: /publication/2023-06-04-huang2023personalized
-authors: '<u>Sung-Feng Huang</u>, Chia-Ping Chen, Zhi-Sheng Chen, Yu-Pao Tsai, Hung-yi Lee
+authors: '<b>Sung-Feng Huang</b>, Chia-Ping Chen, Zhi-Sheng Chen, Yu-Pao Tsai, Hung-yi Lee
 '
 excerpt: 'Learnable model pruning for TTS fine-tuning'
 date: 2023-06-04

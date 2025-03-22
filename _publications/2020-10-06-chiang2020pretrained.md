@@ -2,7 +2,7 @@
 title: "Pretrained Language Model Embryology: The Birth of ALBERT"
 collection: publications
 permalink: /publication/2020-10-06-chiang2020pretrained
-authors: 'Cheng-Han Chiang, <u>Sung-Feng Huang</u>, Hung-yi Lee'
+authors: 'Cheng-Han Chiang, <b>Sung-Feng Huang</b>, Hung-yi Lee'
 excerpt: 'The results show that ALBERT learns to reconstruct and predict tokens of different parts of speech (POS) in different learning speeds during pretraining, and it is found that linguistic knowledge and world knowledge do not generally improve as pretraining proceeds, nor do downstream tasks&apos; performance.'
 date: 2020-10-06
 venue: 'EMNLP'
