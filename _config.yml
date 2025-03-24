@@ -21,7 +21,7 @@ repository               : "SungFeng-Huang/sungfeng-huang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio.jpg"
   name             : "Sung-Feng Huang"
   pronouns         : # example: "she/her"  
   bio              : "Research Scientist @ Nvidia"
